@@ -1,1 +1,2 @@
 # Hotel-Reviews-Analysis
+Grown a classifi cation model, to know the sentiment of the review given by the travelers to the hotel and elements of their hotel infl uence more in forming a positive review or improves hotel brand image. The dataset contains about 20K reviews, used Logistic Regression model for the sentiment analysis and Tfi dfVectorizer for the elements to improve in hotel Not liked by the traveler.
